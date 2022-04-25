@@ -8,6 +8,10 @@
 			"Name": "MinimapPlugin",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ad08325742e24fb0836391bca25c72bb"
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
